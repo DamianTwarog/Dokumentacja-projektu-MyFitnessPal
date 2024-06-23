@@ -1,5 +1,6 @@
 # Dokumentacja-projektu-MyFitnessPal
 
+Dokumentacja projektu: MyFitnessPal
 1. Wprowadzenie
 MyFitnessPal to aplikacja do śledzenia diety i aktywności fizycznej, która umożliwia
 użytkownikom monitorowanie spożywanych kalorii oraz ćwiczeń fizycznych. Aplikacja
